@@ -195,14 +195,8 @@ Perform structured vendor security and compliance assessments.
 * MFA
 * Medical Device Security
 
-📸 INSERT IMAGE HERE
+<img width="1427" height="777" alt="image" src="https://github.com/user-attachments/assets/5dbfbfcd-e0f8-457f-bf1e-3cb0a6470ee9" />
 
-File:
-images/vendor-questionnaire.png
-
-<p align="center">
-<img src="./images/vendor-questionnaire.png" width="100%">
-</p>
 
 ### Vendor Assessment Process
 
@@ -228,14 +222,10 @@ Vendors were evaluated using three weighted criteria:
 | Cloud Hosting Vendor  | 67    | High        |
 | Billing Vendor        | 44    | Medium      |
 
-📸 INSERT IMAGE HERE
 
-File:
-images/risk-scoring.png
 
-<p align="center">
-<img src="./images/risk-scoring.png" width="100%">
-</p>
+<img width="1492" height="757" alt="image" src="https://github.com/user-attachments/assets/ed190b5d-9787-4acb-8853-5906172d4748" />
+
 
 ### Risk Thresholds
 
@@ -274,14 +264,9 @@ Reduce vendor risk through structured remediation activities.
 * Enhanced Logging
 * Annual Risk Assessments
 
-📸 INSERT IMAGE HERE
 
-File:
-images/remediation-plan.png
 
-<p align="center">
-<img src="./images/remediation-plan.png" width="100%">
-</p>
+<img width="1372" height="601" alt="image" src="https://github.com/user-attachments/assets/28ad7d09-89fa-46ff-8cd1-380e104716a7" />
 
 ---
 
@@ -291,14 +276,8 @@ images/remediation-plan.png
 
 Establish ongoing oversight and continuous vendor monitoring.
 
-📸 INSERT IMAGE HERE
+<img width="1918" height="933" alt="image" src="https://github.com/user-attachments/assets/81482aeb-ccb9-464e-895c-87e9033c6afe" />
 
-File:
-images/dashboard.png
-
-<p align="center">
-<img src="./images/dashboard.png" width="100%">
-</p>
 
 ### KPI Dashboard Metrics
 
@@ -312,14 +291,10 @@ images/dashboard.png
 
 # 📋 Compliance Monitoring
 
-📸 INSERT IMAGE HERE
+<img width="1907" height="916" alt="image" src="https://github.com/user-attachments/assets/62839860-e52d-4743-a0d4-118c91b631ad" />
 
-File:
-images/compliance-tracker.png
 
-<p align="center">
-<img src="./images/compliance-tracker.png" width="100%">
-</p>
+
 
 ### Tracked Controls
 
@@ -333,14 +308,10 @@ images/compliance-tracker.png
 
 # 🎯 Phase 6 – Executive Closure & Reporting
 
-📸 INSERT IMAGE HERE
+<img width="1201" height="653" alt="image" src="https://github.com/user-attachments/assets/a3f8bd2b-08f4-44fb-b2ff-8586eb8cb61e" />
 
-File:
-images/executive-summary.png
 
-<p align="center">
-<img src="./images/executive-summary.png" width="100%">
-</p>
+
 
 ## Final Outcomes
 
@@ -425,12 +396,5 @@ Technical vulnerabilities, weak contracts, missing Business Associate Agreements
 
 **GRC Cybersecurity Analyst | TPRM Analyst | HIPAA | HITRUST | ISO 27001 | NIST CSF**
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
-
-🐙 GitHub: https://github.com/Akibus-18
-
-📧 Email: [your-email@email.com](mailto:your-email@email.com)
-
----
 
 ⭐ If you found this project valuable, consider giving it a star.
